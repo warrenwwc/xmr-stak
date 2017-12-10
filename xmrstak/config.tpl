@@ -19,7 +19,7 @@ POOLCONF],
  * currency to mine
  * allowed values: 'monero' or 'aeon'
  */
-"currency" : "CURRENCY",
+"currency" : "monero",
 
 /*
  * Network timeouts.
